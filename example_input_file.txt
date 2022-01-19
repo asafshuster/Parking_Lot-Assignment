@@ -1,0 +1,5 @@
+create_parking_lot(2)
+park(1, 'rea')
+park(2, 'red')
+leave(0)
+park(3, 'blue')
